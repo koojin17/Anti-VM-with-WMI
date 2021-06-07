@@ -1,0 +1,2 @@
+# Anti-VM with WMI
+ 
